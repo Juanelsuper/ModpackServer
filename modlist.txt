@@ -1,4 +1,4 @@
-[1.14.4]SecurityCraftv1.8.17.jar
+1.14.4+SecurityCraftv1.8.17.jar
 AmbientSounds_v3.0.14_mc1.14.4.jar
 AutoRegLib-1.4-35.jar
 backpacked-1.4.0-mc1.14.4.jar
