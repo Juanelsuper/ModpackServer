@@ -33,9 +33,9 @@ quickteleports-1.14.4-1.1.0.jar
 RefreshedNether+v.2.2+(1.14.4).jar
 RottenCreatures-1.14.4-0.9.7.jar
 simplelogin-0.0.0-alpha-build1.jar
-telepads-1.14.4+-+2.0.0.0.jar
 tetra-1.14.4-1.26.0.jar
 themidnight-0.4.7.jar
+thumb.jar
 tlskincape_1.13_1.14-1.8.jar
 ToolBelt-1.14.4-1.12.5.jar
 u_team_core-1.14.4-2.8.2.150.jar
