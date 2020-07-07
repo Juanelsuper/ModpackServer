@@ -1,5 +1,4 @@
 1.14.4+SecurityCraftv1.8.17.jar
-AmbientSounds_v3.0.14_mc1.14.4.jar
 AutoRegLib-1.4-35.jar
 backpacked-1.4.0-mc1.14.4.jar
 car-1.14.4-2.0.34.jar
@@ -27,12 +26,12 @@ NetherEx-1.14.4-3.1.0.jar
 OptiFine_1.14.4_HD_U_F4.jar
 paintings-1.14.4-6.0.1.5.jar
 pandoras_creatures-1.14.4-0.13.1.jar
+performant-1.14.4-1.5.jar
 Quark-r2.0-212.jar
 quickhomes-1.14.4-1.2.4.2.jar
 quickteleports-1.14.4-1.1.0.jar
 RefreshedNether+v.2.2+(1.14.4).jar
 RottenCreatures-1.14.4-0.9.7.jar
-simplelogin-0.0.0-alpha-build1.jar
 tetra-1.14.4-1.26.0.jar
 themidnight-0.4.7.jar
 tlskincape_1.13_1.14-1.8.jar
@@ -40,7 +39,6 @@ ToolBelt-1.14.4-1.12.5.jar
 u_team_core-1.14.4-2.8.2.150.jar
 useful_railroads-1.14.4-1.2.4.19.jar
 WaterStrainer-1.14.4-7.0.2.jar
-Waystones_1.14.4-5.1.1.jar
 Wyrmroost-1.14.4-1.1.0.jar
 Xaeros_Minimap_20.9.0_Forge_1.14.4.jar
 XaerosWorldMap_1.5.7_Forge_1.14.4.jar
