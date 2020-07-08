@@ -6,7 +6,7 @@ chisel-beta.jar
 colorfularmor-1.14.4-1.1.jar.jar
 comforts-FORGE-1.14.4-2.0-beta6.jar
 CookingForBlockheads_1.14.4-7.4.4.jar
-DungeonCrawl-1.14.4-1.6.3.jar
+DungeonCrawl-1.14.4-1.6.1.jar
 enchxchg-1.14.4-5.0.0.jar
 extlights-1.8.jar
 Fence+Jumper-1.14.4-1.0.8.jar
