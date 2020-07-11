@@ -14,7 +14,7 @@ furniture-7.0.0-pre15-1.14.4.jar
 gravestone-1.15.2.jar
 Hwyla-forge-1.10.6-B67_1.14.4.jar
 jei-1.14.4-6.0.0.27.jar
-jsMoreBosses0.2.jar
+jsMoreBosses0.3.jar
 JustEnoughResources-1.14.4-0.10.1.76.jar
 LibraryEx-1.14.4-2.1.0.jar
 mcw-bridges-1.0.4-mc1.14.4.jar
