@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #pushd "C:/Users/$(whoami)/AppData/Roaming/.minecraft/versions/ModPackServer2/mods"
-pushd "~/Library/Application Support/minecraft/versions/ModPackServer2/mods"
+pushd ~/Library/Application\ Support/minecraft/versions/ModPackServer2/mods/
 
 curl "https://raw.githubusercontent.com/Juanelsuper/ModpackServer/master/modlist.txt" -o output.txt 
 
